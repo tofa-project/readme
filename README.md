@@ -1,5 +1,5 @@
 ## Intro
-Tofa is an open source two factor authenticator (2FA) built on top of Tor, thus inheriting 2 core properties: it's anonymous and decentralized. Unlike other authenticators like GAuth/Authy, or traditional Email/SMS authentication with expiration links/codes, Tofa does not require third party involvment between cloud server and client. The communication is done End-To-End (E2E) between service and client ensuring the privacy of both parties. It can be integrated easily with onion and clearnet services. 
+Tofa is an open source two factor authenticator (2FA) built on top of Tor, thus inheriting 2 core properties: it's anonymous and decentralized. Tofa does not require third party involvment between cloud server and client. The communication is done End-To-End (E2E) between service and client ensuring the privacy of both parties. It can be integrated easily with onion and clearnet services. 
 
 ## How it works
 I will not dive deep into technical aspects. The following scheme should offer an overall image:
